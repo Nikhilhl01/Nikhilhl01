@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilhl01&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilhl01" /> </p>
 
-- 🔭 I’m currently working on **Recipe**
+- 🔭 I’m currently working on **Recipe-Hunt**
 
 - 🌱 I’m currently learning **C++, Node.js and Django**
 
