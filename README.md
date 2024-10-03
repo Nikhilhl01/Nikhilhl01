@@ -9,6 +9,22 @@
 
 - 📫 How to reach me **nikhilhl84@gmail.com**
 
+```python
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Nikhil H L";
+    self.username = "Nikhilhl01";
+    self.location = "Bangalore, India";
+    self.Linkdin = "@nikhilhl001";
+    
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = Nikhil_H_L()
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikhilhl001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilhl001" height="30" width="40" /></a>
