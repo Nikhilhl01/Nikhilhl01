@@ -10,7 +10,7 @@
 - 📫 How to reach me **nikhilhl84@gmail.com**
 
 ```python
-class AbhigyanTrips():
+class Nikhil_H_L():
     
   def __init__(self):
     self.name = "Nikhil H L";
