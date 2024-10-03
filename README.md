@@ -16,7 +16,7 @@ class Nikhil_H_L():
     self.name = "Nikhil H L";
     self.username = "Nikhilhl01";
     self.location = "Bangalore, India";
-    self.Linkdin = "@nikhilhl001";
+    self.linkdin = "@nikhilhl001";
     
   
   def __str__(self):
