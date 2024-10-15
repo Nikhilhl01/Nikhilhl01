@@ -26,11 +26,13 @@ if __name__ == '__main__':
     me = Nikhil_H_L()
 ```
 <br><br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 <p align="left">
 <a href="https://linkedin.com/in/nikhilhl001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilhl001" height="30" width="40" /></a>
 <a href="https://instagram.com/nikhil.h.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil.h.l" height="30" width="40" /></a>
 </p>
+
+
 
 <div id="user-content-toc">
   <ul align="center">
