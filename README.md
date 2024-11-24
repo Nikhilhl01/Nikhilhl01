@@ -1,11 +1,17 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilhl01&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilhl01" /> </p>
+
 <h1 align="center">Hi 👋, I'm Nikhil H L</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilhl01&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilhl01" /> </p>
 
-- 🔭 I’m currently working on **Recipe-Hunt**
+<h2 align="center">Working on n8n automation at Medi buddy</h2>
 
-- 🌱 I’m currently learning **C++, Node.js and Django**
+![n8n.io - Workflow Automation](https://user-images.githubusercontent.com/65276001/173571060-9f2f6d7b-bac0-43b6-bdb2-001da9694058.png)
+
+
+
+
+- 🌱 I’m currently learning **n8n and Django**
 
 - 📫 How to reach me **nikhilhl84@gmail.com**
 
