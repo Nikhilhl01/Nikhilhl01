@@ -4,9 +4,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-<h2 align="center">Working on n8n automation at Medi buddy</h2>
-
-![n8n.io - Workflow Automation](https://user-images.githubusercontent.com/65276001/173571060-9f2f6d7b-bac0-43b6-bdb2-001da9694058.png)
+<h2 align="center">Working at Medi buddy</h2>
 
 
 
